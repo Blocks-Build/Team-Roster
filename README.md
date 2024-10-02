@@ -11,7 +11,7 @@ Key Components:
 Installation Instructions:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Blocks-Build/team-roster-manager.git
+   git clone https://github.com/Blocks-Build/Team-Roster.git
    ```
 2. Navigate to the project directory:
    ```bash
